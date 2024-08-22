@@ -1,0 +1,2 @@
+stunned = false;
+state = "idle";

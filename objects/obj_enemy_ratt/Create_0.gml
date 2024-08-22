@@ -1,0 +1,29 @@
+hspd = 0;
+vspd = 0;
+spd = 0.5;
+w_spd = 5;
+r_spd = 8;
+c_spd = 3;
+grv = 5;
+dir = -1;
+fearofheights = true;
+state = "idle";
+attack_delay = 0;
+attack_range = 38;
+follow_range = 1000;
+attack_speed = 0.8;
+normal_speed = 1;
+stunned = false;
+fire = false;
+fire_count = 0;
+knockback = 0;
+turn_delay = 0;
+
+mask_index = spr_player_mask;
+
+damage = 10;
+health_max = 75
+health_ = health_max;
+score_ = 25;
+flash = 0;
+hit = false;

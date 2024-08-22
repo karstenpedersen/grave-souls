@@ -1,0 +1,1 @@
+global.current_score += score_;

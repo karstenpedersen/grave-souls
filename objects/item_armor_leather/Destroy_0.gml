@@ -1,0 +1,1 @@
+global.armor_leather += 1;

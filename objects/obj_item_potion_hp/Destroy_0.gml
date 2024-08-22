@@ -1,0 +1,1 @@
+obj_player.healing_item += 1;

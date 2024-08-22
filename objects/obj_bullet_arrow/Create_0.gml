@@ -1,0 +1,11 @@
+spd = 5;
+speed = spd;
+direction = 0;
+image_angle = direction;
+grv = 4;
+damage = 10;
+fire = false;
+r1 = 8;
+r2 = 16;
+flicker = 2;
+m_light = true;

@@ -1,0 +1,1 @@
+instance_create_layer(x,y-16,"items",par_item_shop);

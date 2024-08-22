@@ -1,0 +1,1 @@
+game_tip_number += 1;

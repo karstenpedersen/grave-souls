@@ -1,0 +1,1 @@
+//draw_text(32,900,"Wave: " + string(global.wave));
