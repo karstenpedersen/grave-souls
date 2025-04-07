@@ -1,6 +1,6 @@
-# Fighting Game
+# Grave Souls
 
-Made with Game Maker Studio 2.
+Souls like inspired 2D game made with Game Maker Studio 2.
 
 ![image](https://github.com/user-attachments/assets/197ece17-c22d-43a7-b7f6-01d5ece68dc8)
 
